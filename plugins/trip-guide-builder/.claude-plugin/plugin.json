@@ -3,7 +3,9 @@
   "description": "Build a polished single-file interactive HTML family travel guide from flight tickets, hotels, and a few trip parameters. Bundles the interactive-trip-guide skill.",
   "version": "1.0.0",
   "author": {
-    "name": "Dorit"
+    "name": "Dorit Wasserman (DebbWass)"
   },
+  "homepage": "https://github.com/DebbWass/interactive-trip-guide",
+  "repository": "https://github.com/DebbWass/interactive-trip-guide",
   "license": "MIT"
 }

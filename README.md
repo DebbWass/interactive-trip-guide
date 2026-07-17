@@ -28,11 +28,10 @@ filter tags, mobile swipe, and print-to-PDF. It handles multi-city trips with se
 In Claude Code:
 
 ```
-/plugin marketplace add <your-github-username>/trip-guide-marketplace
-/plugin install trip-guide-builder@family-travel
+/plugin marketplace add DebbWass/interactive-trip-guide
+/plugin install trip-guide-builder@interactive-trip-guide
 ```
 
-(Replace `<your-github-username>/trip-guide-marketplace` with wherever you host this repo.)
 After installing, run `/reload-plugins` — or start a new session — and the skill loads.
 
 To try it without installing, from a clone of this repo:
@@ -64,4 +63,4 @@ Example:
   reference — great for a family's private file. If you share a generated guide publicly, ask
   for the personal details to be removed. The example bundled with the skill uses fictional
   data.
-- **License:** MIT — see [LICENSE](LICENSE). Update the copyright holder to your name.
+- **License:** MIT — see [LICENSE](LICENSE). © 2026 Dorit Wasserman (DebbWass).

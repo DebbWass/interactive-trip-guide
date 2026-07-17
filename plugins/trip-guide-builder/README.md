@@ -8,8 +8,8 @@ tab, live weather, print-to-PDF). Handles multi-city trips with several hotels.
 ## Install
 
 ```
-/plugin marketplace add <your-github-username>/trip-guide-marketplace
-/plugin install trip-guide-builder@family-travel
+/plugin marketplace add DebbWass/interactive-trip-guide
+/plugin install trip-guide-builder@interactive-trip-guide
 ```
 
 Then `/reload-plugins` (or a new session). The skill triggers automatically when you describe
