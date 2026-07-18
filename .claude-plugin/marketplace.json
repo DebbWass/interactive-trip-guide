@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "trip-guide-builder",
-      "source": "trip-guide-builder",
+      "source": "./plugins/trip-guide-builder",
       "description": "Build a polished single-file interactive HTML family travel guide from flight tickets, hotels, and a few trip parameters — day-by-day itinerary, maps, multi-currency budget, packing checklist, flights tab, live weather, and print-to-PDF.",
       "version": "1.0.0",
       "author": {
